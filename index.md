@@ -19,4 +19,4 @@ I am a DevOps Engineer
 
 ---
 
-**Contact:** [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/rizkiramadhan25) | [GitHub](https://github.com/therizdhan/)
