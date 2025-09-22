@@ -1,0 +1,13 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* Your overrides */
+body {
+  font-family: "Inter", sans-serif;
+  background: #f7f9fb;
+  color: #333;
+}
+a {
+  color: #007acc;
+}
